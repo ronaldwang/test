@@ -1,0 +1,9 @@
+{
+	"pro":[
+	],
+	"free":[
+		{"buildin":true, "desc":"1", "server":"133.242.161.43"},
+		{"buildin":true, "desc":"2", "server":"45.33.33.67"}
+	],
+  "version": 1.7
+}
